@@ -1,0 +1,32 @@
+[head=1] ╔═════════════════╗[/head]
+[color=#AC1E20][head=6]              ░███░█████░████░█████░░░░░[/color][/head]
+[color=#AC1E20][head=6]              ░██░░██░░░░██░░░██░░░░░░░░[/color][/head]
+[color=#AC1E20][head=6]              ░█░░░█████░████░██░░░░░░█░[/color][/head]
+[color=#AC1E20][head=6]              ░░░░░░░░██░██░░░██░░░░░██░[/color][/head]
+[color=#AC1E20][head=6]              ░░░░░█████░████░█████░███░[/color][/head]
+
+[head=1] ╚═════════════════╝[/head]
+[head=2] ╔═════════════════════════╗[/head]
+[head=2]                      ISSUANCE OF FINE  [/head]
+[head=2]    ═════════════════════════ [/head]
+    [bold]  ACCOUNTABLE PERSON: [/bold]
+    [bold]  JOB: [/bold]
+    [bold]  AMOUNT OWED: [/bold]
+    [bold]  ISSUED BY: [/bold]
+    [bold]  TIME ISSUED: [/bold]
+[head=2] ╚═════════════════════════╝[/head]
+╓—————————————————————————╖
+  • INFRACTION:
+
+
+   —————————————————————————
+  All fines must be paid in full to cargo within 10 minutes of                        
+  the issuance of this fine through direct payment or  
+  provision of equal value.
+
+  Should the fine not be paid within the accpetable 
+  timeframe, members of the cargo department are given   
+  express permission to acquire the funds by use of force.
+╙————————————————————————╜
+
+[bold]   ————————<Place for stamps>————————[/bold]

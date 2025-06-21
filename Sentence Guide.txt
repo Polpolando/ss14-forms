@@ -1,0 +1,53 @@
+#Sentencing Guide
+[color=#1b67a5]█▄ █ ▀█▀    [head=3]Sentence Form[/head]
+█ ▀█     █ [/color]
+──────────────────────────────────────────
+[bold]Subject[/bold]:   [color=#002AAF]Sample Name[/color]
+          ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+……………………………………………………………………………………………
+[head=2][color=#4D2E2E][bold]Violent Crime[/color][/bold][/head]
+[bullet]II-02 \[  ] Animal Cruelty - 5 minutes
+[bullet]II-03 \[  ] Endangerment - 3 minutes
+   ├ III-03 \[  ] Manslaughter - 10 minutes
+   └ III-04 \[  ] Assault/Battery - 6 minutes
+      ├ IV-03 \[  ] Attempted Murder - 10 minutes
+      └ IV-04 \[  ] Murder - 10 minutes
+         └ V-04 \[  ] Mass Murder - Perma
+[bullet]V-03 \[  ] Prevention of Revival - Perma
+……………………………………………………………………………………………
+[head=2][color=#2E422E][bold]Property Crime[/color][/bold][/head]
+[bullet/]I-01 \[  ] Possession: Drugs - 3 minutes 
+[bullet/]II-06 \[  ] Possession: Restricted Gear - 5 minutes
+[bullet/]III-06 \[  ] Possession: Restricted Weaponry - 6 minutes
+[bullet]I-08 \[  ] Petty Theft - 3 minutes
+   └ III-08 \[  ] Grand Theft 6 minutes
+……………………………………………………………………………………………
+[head=2][color=#453A59][bold]Property Damage[/color][/bold][/head]
+[bullet]I-05 \[  ] Vandalism - 2 minutes
+   └ II-05 \[  ] Damage/Destruction of Property - 4 minutes
+       └ III-05 \[  ] Mass Destruction - 15 minutes
+[bullet]V-05 \[  ] Terrorism - Execution
+……………………………………………………………………………………………
+[head=2][color=#641327][bold]Risk to others[/color][/bold][/head]
+[bullet]IV-01 \[  ] Kidnapping - 10 minutes
+   └ V-01 \[  ] Capital Negligence - Perma/Demotion
+……………………………………………………………………………………………
+[head=2][color=#6769a2][bold]Access Crime[/color][/bold][/head]
+[bullet]I-07 \[  ] Trespass - 2 minutes
+   └ III-07 \[  ] Secure Trespass - 8 minutes
+……………………………………………………………………………………………
+[head=2][color=#3B4354][bold]Protest Crime[/color][/bold][/head]
+[bullet]I-04 \[  ] Disturbance - 2 minutes
+   └ II-04 \[  ] Rioting - 4 minutes
+……………………………………………………………………………………………
+[head=2][color=#593A4E][bold]Disobedience[/color][/bold][/head]
+[bullet]II-01 \[  ] Failure to Comply - 2 minutes
+   └ III-01 \[  ] Breach of Arrest - 4 minutes
+[bullet]III-02 \[  ] Breach of Custody - 5 minutes
+[bullet]V-02 \[  ] Refusal of Mental Shielding - Perma
+
+─────────────────────────────────────────
+[color=#134975][head=2]Total Time: [color=#002AAF]XX[/color][bold] minutes[/bold][/head][/color]
+[italic][color=#aaaaaa]All times are maximum but not recommended sentences.
+Nested crimes do not stack, only use most severe offence.
+Give more leniency for first time offences and compliance. [/color][/italic]

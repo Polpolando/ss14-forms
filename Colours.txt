@@ -1,0 +1,8 @@
+[color=#1b67a5][head=2]Command[/head]
+[color=#f39f27][head=2]Engineering[/head]
+[color=#b18644][head=2]Cargo[/head]
+[color=#33ccff][head=2]Medical[/head]
+[color=#c96dbf][head=2]Science[/head]
+[color=#cb0000][head=2]Security[/head]
+[color=#9fed58][head=2]Service[/head]
+[color=#006400][head=2]CentComm[/head]

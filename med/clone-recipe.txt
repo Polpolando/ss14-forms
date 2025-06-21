@@ -1,0 +1,18 @@
+[color=#33ccff][head=2]                    Recipe for cloning![/head][/color]
+
+[head=3]Tools[/head]
+[bullet/]Screwdriver
+[bullet/]Wrench
+[bullet/]Multitool
+
+[head=3]Mats[/head]
+[bullet/]25 steel
+[bullet/]8 glass
+[bullet/]10 lv cable
+
+[bullet/]1 capacitor
+[bullet/]4 matter bins
+[bullet/]3 manipulators
+
+[bullet/]2 knives
+

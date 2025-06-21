@@ -1,0 +1,18 @@
+#MR-ITM-00-XX
+[color=#1b67a5]█▄ █ ▀█▀    [head=3]Item Request Form[/head]  
+█ ▀█     █[/color]                                                               [color=#aaa]Document MR-ITM[/color]  
+──────────────────────────────────────────
+Recipient Name:    [color=#002AAF]Sample Name[/color]  
+                               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾  
+Item(s) Requested:[color=#002AAF]
+[bullet/]Sample Item One
+[bullet/]Sample Item Two
+[/color]
+Reason:    [color=#002AAF]Justification[/color]  
+                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+This document is considered [italic]null and void[/italic] unless it bears the official stamp of the relevant departmental Head overseeing the requested item(s). All requisitions must be evaluated in accordance with departmental protocols, resource allocation priorities, and administrative oversight. Requests that bypass proper authorization channels, lack justifiable purpose, or are submitted without the required endorsements will not be processed or fulfilled under any circumstances.
+
+         [italic]STAMP BELOW     STAMP BELOW     STAMP BELOW[/italic]  
+──────────────────────────────────────────  
+

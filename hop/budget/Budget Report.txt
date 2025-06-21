@@ -1,0 +1,17 @@
+#Budget Report hh:mm RE-BDG-HH-MM
+[color=#1b67a5]█▄ █ ▀█▀    [head=3]Budget Report[/head]
+█ ▀█     █[/color]                                                               [color=#aaa]Document RE-BDG[/color]
+──────────────────────────────────────────
+[mono]Department Revenue Division
+Shift Time: hh:mm
+
+[bold]Department             Code             Revenue Share (%)[/bold]
+Supply         SUP      XX%
+Engineering    ENG      XX%
+Medical        MED      XX%
+Research       RND      XX%
+Security       SEC      XX%
+Service        SRV      XX%[/mono]
+──────────────────────────────────────────
+         [italic]STAMP BELOW     STAMP BELOW     STAMP BELOW[/italic]
+──────────────────────────────────────────

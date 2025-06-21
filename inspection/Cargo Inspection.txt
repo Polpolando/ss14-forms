@@ -1,0 +1,36 @@
+#IN-CIN-00
+[color=#1b67a5]█▄ █ ▀█▀    [head=3]Cargo Bay Inspection Report[/head]
+█ ▀█     █[/color]                                                               [color=#aaa]Document IN-CIN[/color]
+──────────────────────────────────────────
+Legend:  
+[color=#AF0000]BAD[/color] = Unacceptable condition – requires immediate correction  
+[color=#f9a602]OK[/color] = Acceptable, but may need attention soon  
+[color=#007f0e]GOOD[/color] = Satisfactory and compliant
+
+Inspection Criteria:
+[     ]  Cleanliness of environment 
+[     ]  Front desk properly staffed
+[     ]  Cargo item sorting  
+[     ]  Crate placement (no obstructions)  
+[     ]  Order documentation present  
+[     ]  Hazardous material handling  
+[     ]  Personnel access compliance  
+[     ]  Lighting and infrastructure  
+[     ]  Security of containers  
+[     ]  Processing of shipments  
+
+
+Inspector Name:    [color=#002AAF]Sample Name[/color]  
+                                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+Inspector Notes:  [color=#002AAF]Sample Notes[/color]  
+
+
+This report shall be considered [italic]null and void[/italic] in all official capacities unless it bears the formal stamp of validation issued by one of the following: the Quartermaster, the Head of Personnel, an authorized agent of Internal Affairs, or the Station Captain. Absence of such endorsement renders the findings contained herein inadmissible for procedural, corrective, or disciplinary action.
+
+Furthermore, this inspection is not considered valid unless it is accompanied by a duly completed Inspection Request Form (IN-REQ-[color=#002AAF]00[/color]), explicitly referenced within this document. Said request must be properly stamped by the Head of the department being inspected, the Station Captain, or an Internal Affairs Agent. Failure to provide or properly endorse the accompanying request invalidates the entirety of this inspection report.
+
+         [italic]STAMP BELOW     STAMP BELOW     STAMP BELOW[/italic]
+──────────────────────────────────────────
+
+

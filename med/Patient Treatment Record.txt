@@ -1,0 +1,21 @@
+#MD-PTR-00-II
+[color=#3cf]█▄ █ ▀█▀    [head=3]Patient Treatment Record[/head]
+█ ▀█     █[/color]                                                               [color=#aaa]Document MD-PTR[/color]
+──────────────────────────────────────────
+[head=3]Patient Information[/head]
+Name:    [color=#002AAF]Sample Name[/color]
+             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Species:    [color=#002AAF]Sample Access[/color]
+                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Occupation:    [color=#002AAF]Sample Reason[/color]
+                        ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[head=3]Initial Diagnosis[/head]
+[color=#002AAF]Lorem ipsum[/color]
+
+[head=3]Treatment Details[/head]
+[color=#002AAF]Lorem ipsum[/color]
+
+[head=3]Notes[/head]
+[color=#002AAF]Lorem ipsum[/color]
+
+[italic]I, the undersigned, agree that the services listed above are accurate and consent to release. This document is intended solely for medical record-keeping purposes. It is considered valid with the signature of any authorized medical staff member.[/italic]
