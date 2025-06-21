@@ -6,9 +6,9 @@ Dear
 
 
 
-Sincerely
-Rikirepa
-Head of Personnel
+Sincerely,
+<name>,
+<job>
 
          [italic]STAMP BELOW     STAMP BELOW     STAMP BELOW[/italic]
 ──────────────────────────────────────────
