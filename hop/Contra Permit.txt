@@ -1,0 +1,42 @@
+# PE-CNT-00-II
+[color=#1b67a5]█▄ █ ▀█▀    [head=3]Restricted Items Permit[/head]  
+█ ▀█     █[/color]                                                               [color=#aaa]Document PE-CNT[/color]  
+──────────────────────────────────────────  
+In order to request permission for restricted items, you must fill out the following form up to the authorization section, ensuring all information is accurate. Once completed, submit it to the Head of Security or the Captain for review and stamping.
+
+Recipient Name:    [color=#002AAF]Sample Person[/color]  
+                               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾  
+Permitted Item(s): [color=#002AAF]  
+[bullet/]Sample Item  
+[bullet/]Sample Item  
+[/color]
+Reason for Exception: [color=#002AAF]Sample Reason[/color]  
+                                         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾  
+Contraband Level(s) Involved:  
+\[  ] Department-Specific  
+[color=#888888](Items restricted to specific departments or roles.)[/color]  
+\[  ] Security-Specific  
+[color=#888888](Equipment normally reserved for Security personnel.)[/color]  
+\[  ] Command-Specific  
+[color=#888888](Equipment normally reserved for Command personnel.)[/color]  
+\[  ] Central Command Restricted  
+[color=#888888](Items classified by Central Command - extremely limited use.)[/color]  
+\[  ] Minor  
+[color=#888888](General restricted tools or devices with minor risk.)[/color]  
+\[  ] Major  
+[color=#888888](High-risk items such as weapons or command gear.)[/color]  
+\[  ] Syndicate  
+[color=red][bold]No exceptions will be granted for Syndicate or other hostile faction items.[/bold][/color]  
+──────────────────────────────────────────
+[head=2]Required Authorization[/head]  
+[italic]To be completed by the Head of Security or Captain.[/italic]
+
+The following individual(s) must stamp this document for it to be valid:[color=#EE0000]  
+[bullet/]HoS  
+[bullet/]Sample head.  
+[/color]
+This document is [italic]not valid[/italic] unless stamped by appropriate authority.  
+Any use of this form without proper stamping or falsification of permissions is punishable under NT Space Law §16-8.7c and may result in revocation, fines up to 5000 spesos, or disciplinary action.
+
+         [italic]STAMP BELOW     STAMP BELOW     STAMP BELOW[/italic]  
+──────────────────────────────────────────
