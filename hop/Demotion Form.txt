@@ -1,6 +1,6 @@
-#AR-DMT-00-II
+#RQ-DMT
 [color=#1b67a5]█▄ █ ▀█▀    [head=3]Demotion Form[/head]
-█ ▀█     █[/color]                                                               [color=#aaa]Document AR-DMT[/color]
+█ ▀█     █[/color]                                                               [color=#aaa]Document RQ-DMT[/color]
 ──────────────────────────────────────────
 To initiate a demotion, please complete the form below with accurate and clear information.
 

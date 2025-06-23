@@ -1,6 +1,6 @@
-# PE-CNT-00-II
-[color=#1b67a5]█▄ █ ▀█▀    [head=3]Restricted Items Permit[/head]  
-█ ▀█     █[/color]                                                               [color=#aaa]Document PE-CNT[/color]  
+#PR-ITM
+[color=#cb0000]█▄ █ ▀█▀    [head=3]Restricted Items Permit[/head]  
+█ ▀█     █[/color]                                                               [color=#aaa]Document PR-ITM[/color]  
 ──────────────────────────────────────────  
 In order to request permission for restricted items, you must fill out the following form up to the authorization section, ensuring all information is accurate. Once completed, submit it to the Head of Security or the Captain for review and stamping.
 
@@ -35,8 +35,7 @@ The following individual(s) must stamp this document for it to be valid:[color=#
 [bullet/]HoS  
 [bullet/]Sample head.  
 [/color]
-This document is [italic]not valid[/italic] unless stamped by appropriate authority.  
-Any use of this form without proper stamping or falsification of permissions is punishable under NT Space Law §16-8.7c and may result in revocation, fines up to 5000 spesos, or disciplinary action.
+This document is [italic]not valid[/italic] unless stamped by the appropriate authority. Use of this form without proper stamping or with falsified permissions may result in revocation or disciplinary action.
 
          [italic]STAMP BELOW     STAMP BELOW     STAMP BELOW[/italic]  
 ──────────────────────────────────────────

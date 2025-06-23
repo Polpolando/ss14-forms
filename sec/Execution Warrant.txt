@@ -1,19 +1,21 @@
-[color=#1b67a5]█▄ █ ▀█▀    [head=3]Personnel Execution Warrant[/head]
-█ ▀█     █        [color=red]This document invalid unless stamped[/color][/color]
+#WR-EXE
+[color=#cb0000]█▄ █ ▀█▀    [head=3]Personnel Execution Warrant[/head]
+█ ▀█     █[/color][color=red]This document invalid unless stamped[/color]                          [color=#aaa]Document WR-EXE[/color]  
 ──────────────────────────────────────────
 This warrant gives security permission to execute a particular member of personnel.
 [color=red][bold]This warrant must be approved and stamped by the Captain.[/bold][/color]
 
-Requesting Officer:   [color=#002AAF]Tim Muon[/color]
+Requesting Officer:   [color=#002AAF]Sample Person.[/color]
                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-Warrant Target:   [color=#002AAF]Bobo Cognison[/color]
+Warrant Target:   [color=#002AAF]Sample Target[/color]
                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-Warrant Reason:   [color=#002AAF]Confirmed EoC, catatonic[/color]
+Warrant Reason:   [color=#002AAF]Sample Reason.[/color]
                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-Method of execution:   [color=#002AAF]Biomass reclaimer[/color]
+Method of execution:   [color=#002AAF]Sample Method.[/color]
                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-
 [color=#aaaaaa]This document is not valid unless stamped by at least one of the listed required personnel.
 This form follows NT Space Law §1-2.1
 Those who abuse granted permission can be fined up to 5000 spesos pursuant NT Handbook §16-8.7c[/color]
 
+         [italic]STAMP BELOW     STAMP BELOW     STAMP BELOW[/italic]  
+──────────────────────────────────────────

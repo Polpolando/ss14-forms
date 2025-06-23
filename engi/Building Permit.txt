@@ -1,6 +1,6 @@
-#MC-BLD-00-XX
+#PR-BLD
 [color=#f39f27]█▄ █ ▀█▀    [head=3]Building Permit[/head]
-█ ▀█     █[/color]                                                               [color=#aaa]Document MC-BLD[/color]
+█ ▀█     █[/color]                                                               [color=#aaa]Document PR-BLD[/color]
 ──────────────────────────────────────────
 To request permission for construction, fill out this form fully and accurately. Once completed, submit it to the Chief Engineer for review and stamping. If the construction is within a departmental area, you must also present the form to that department’s Head or the Captain for additional approval.
 

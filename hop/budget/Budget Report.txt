@@ -1,6 +1,6 @@
-#Budget Report hh:mm RE-BDG-HH-MM
+#RP-BDG-HH-MM
 [color=#1b67a5]█▄ █ ▀█▀    [head=3]Budget Report[/head]
-█ ▀█     █[/color]                                                               [color=#aaa]Document RE-BDG[/color]
+█ ▀█     █[/color]                                                               [color=#aaa]Document RP-BDG[/color]
 ──────────────────────────────────────────
 [mono]Department Revenue Division
 Shift Time: hh:mm

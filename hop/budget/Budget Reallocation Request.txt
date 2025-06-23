@@ -1,6 +1,6 @@
-#BU-BRR-00
+#RQ-BDG
 [color=#1b67a5]█▄ █ ▀█▀    [head=3]Budget Reallocation Request Form[/head]
-█ ▀█     █[/color]                                                               [color=#aaa]Document BU-BRR[/color]
+█ ▀█     █[/color]                                                               [color=#aaa]Document RQ-BDG[/color]
 ──────────────────────────────────────────
 To request a change in budget allocation, please complete the form below with accurate information. Upon completion, submit the form to the Head of Personnel for review. Make sure that all division changes sum is equal to zero, otherwise the request will be rejected.
 ──────────────────────────────────────────
@@ -13,7 +13,7 @@ To request a change in budget allocation, please complete the form below with ac
 [bullet/]SRV -5%
 [bullet/]etc.
 ──────────────────────────────────────────
-This request must be accompanied by a current and complete Budget Report document (BU-BDG) outlining the financial status of all departments involved.
+This request must be accompanied by a current and complete Budget Report document (RP-BDG) outlining the financial status of all departments involved.
 
 All budget reallocations require the official stamps of approval from the Heads of the respective departments. Should mutual agreement not be reached, a formal resolution meeting must be held in the Conference Room. This meeting shall include all involved Department Heads, the Captain, and the Head of Personnel. The reallocation shall not be executed until consensus is achieved and all necessary endorsements are obtained.
 

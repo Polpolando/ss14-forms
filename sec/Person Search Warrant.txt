@@ -1,9 +1,9 @@
 # Personnel Search Warrant
-[color=#1b67a5]█▄ █ ▀█▀    [head=3]Personnel Search Warrant[/head]
-█ ▀█     █        [color=red]This document invalid unless stamped[/color][/color]
+[color=#cb0000]█▄ █ ▀█▀    [head=3]Personnel Search Warrant[/head]
+█ ▀█     █[/color]                                                               [color=#aaa]Document WR-SPR[/color]  
 ──────────────────────────────────────────
 This warrant gives security permission to search a particular member of personnel.
-[color=red][bold]This warrant must be approved and stamped by the Captain, the HoS, or the dept. head of the individual to be searched. It cannot be approved by the HoS if the HoS is the one who requested it.[/bold][/color]
+[color=red][bold]This warrant must be approved and stamped by the Captain or Head of Security. It cannot be approved by the Head of Security if the Head of Security is the one who requested it.[/bold][/color]
 
 Requesting Officer:   [color=#002AAF]Sample Person[/color]
                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
@@ -16,3 +16,6 @@ If illegal items are found to be in the possession of the searched individual th
 [color=#aaaaaa]This document is not valid unless stamped by at least one of the listed required personnel.
 This form follows NT Space Law §1-2.1
 Those who abuse granted permission can be fined up to 5000 spesos pursuant NT Handbook §16-8.7c[/color]
+
+         [italic]STAMP BELOW     STAMP BELOW     STAMP BELOW[/italic]  
+──────────────────────────────────────────
