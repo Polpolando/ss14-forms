@@ -2,32 +2,34 @@
 [color=#c96dbf]█▄ █ ▀█▀    [head=3]Anomaly Report[/head]
 █ ▀█     █[/color]                                                               [color=#aaa]Document RD-ANR[/color]
 ──────────────────────────────────────────
-
-[bold]Type:[/bold]
-[mono]( ) STATIC ( ) INFECTION
+[bold]Type:[/bold][mono]
+( ) STATIC ( ) INFECTION
 
 ( ) FIRE ( ) TECH ( ) ELECTRIC ( ) GRAVITY 
 ( ) BLUESPACE ( ) LIQUID ( ) ROCK ( ) ICE 
-(X)OTHER(Specify): [/mono][color=#002AAF]Sample Type[/color]
+( )OTHER(Specify): [/mono][color=#002AAF]Sample Type[/color]
 
-[bold]Location:[/bold]
-[mono](X) WITHIN 
+[bold]Location:[/bold][mono]
+( ) WITHIN 
 ( ) SOUTH ( ) WEST 
 ( ) EAST ( ) NORTH
 
 ( ) MAINTS ( ) MED ( ) SCI ( ) ENGI ( ) CARGO 
 ( ) SEC ( ) BRIDGE ( ) BAR 
-(X)OTHER(Specify): [/mono][color=#002AAF]Sample Location[/color]
+( )OTHER(Specify): [/mono][color=#002AAF]Sample Location[/color]
 
-[bold]Status: [/bold]
-[mono]( ) UNFOUND (X)CONTAINED ( ) DESTROYED 
+[bold]Status:[/bold][mono]
+( ) UNFOUND (X)CONTAINED ( ) DESTROYED 
 ( ) CRIT(Explain):
 ( ) OTHER(Specify): [/mono][color=#002AAF]Sample Status[/color]
 
-[bold]Particle Reaction Analysis: [/bold][color=#002AAF]Sample Status[/color]
+[bold]Particle Reaction Analysis:[/bold]
 [bullet][color=#d5163b]Danger type: [/color][color=#002AAF]Type[/color]
 [bullet][color=#d79cd7]Unstable type: [/color][color=#002AAF]Type[/color]
 [bullet][color=#d9a420]Containment type: [/color][color=#002AAF]Type[/color]
 [bullet][color=#6a74f7]Transformation type: [/color][color=#002AAF]Type[/color]
 
+[bold]Notes:[/bold][color=#002AAF]
+Note.
+[/color]
 ──────────────────────────────────────────
