@@ -1,0 +1,18 @@
+#RP-LIT
+[color=#1b67a5]█▄ █ ▀█▀    [head=3]Lost Item Report[/head]  
+█ ▀█     █[/color]                                                               [color=#aaa]Document RP-LIT[/color]  
+──────────────────────────────────────────
+Fill out this form truthfully and completely to report lost item(s). Signature is required for the report to be valid and be processed.
+
+Recipient Name:    [color=#002AAF]Sample Name[/color]  
+                               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾  
+Item(s) Lost:[color=#002AAF]
+[bullet/]Sample Item One
+[bullet/]Sample Item Two
+[/color]
+Last Known Location:  [color=#002AAF]Sample Answer[/color]  
+                                          ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+This document is considered [italic]null and void[/italic] unless it bears the signature of the person reporting lost item(s). This document does not guarantee the recovery of lost item(s) and is only a record of the report made.
+
+         [italic]SIGN BELOW             SIGN BELOW            SIGN BELOW [/italic]  
+──────────────────────────────────────────
