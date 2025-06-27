@@ -3,7 +3,7 @@
 █ ▀█     █[/color]                                                               [color=#aaa]Document QS-LOY[/color]  
 ──────────────────────────────────────────
 
-Please answer all questions truthfully and to the best of your knowledge. Any detected dishonesty may result in psychological reconditioning or reassignment to Administrative Filing Unit 12-B. Submit completed form to Internal Affairs for review and archival.
+Please answer all questions truthfully and to the best of your knowledge. Any detected dishonesty may result in psychological reconditioning or reassignment to Administrative Filing Unit 12-B. Submit completed form to Internal Affairs Agent, Head of Personnel, Head of Security or the Captain for review and archival.
 
 Name of Subject:    [color=#002AAF]Sample Name[/color]  
                              ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
@@ -11,50 +11,42 @@ Name of Subject:    [color=#002AAF]Sample Name[/color]
 [head=3]Section I: Organizational Affiliation[/head]
 
 1. What does Nanotrasen mean to you, in 500 words or more?  
-   [color=#002AAF]___________________________________________________  
-   ___________________________________________________  
-   ___________________________________________________[/color]
+   [color=#002AAF]Sample Essay[/color]
 
 2. How would you describe your feelings about the Syndicate, its goals, and its fashion sense?  
-   [color=#002AAF]___________________________________________________  
-   ___________________________________________________[/color]
-
-3. Have you ever purchased red clothing, sunglasses indoors, or voice modulators? (Y/N)  
-   [color=#002AAF]_____[/color]
-
+   [color=#002AAF]Sample Answer[/color]
+   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+3. Have you ever purchased red clothing, sunglasses indoors, or voice modulators? (Y/N)  [color=#002AAF]Y/N[/color]
+                                                    ‾‾‾
 4. Complete the sentence: "If I saw a Syndicate agent sabotaging the engine, I would..."  
-   [color=#002AAF]___________________________________________________  
-   ___________________________________________________[/color]
-
-5. Are you now, or have you ever been, sympathetic to monkeys, lizards, or sentient vending machines? (Y/N)  
-   [color=#002AAF]_____[/color]
-
+   [color=#002AAF]Sample Answer[/color]
+   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+5. Are you now, or have you ever been, sympathetic to monkeys, lizards, or sentient vending machines? (Y/N)
+   [color=#002AAF]Y/N[/color]
+  ‾‾‾
 [head=3]Section II: Cognitive Alignment[/head]
 
-6. Choose one:  
-   [color=#002AAF]▢ Loyalty Implant  
-   ▢ Mindshield Implant  
-   ▢ I respectfully decline and accept the consequences[/color]
+6. Choose one:
+   \[  ] Cognitive Training
+   \[  ] Mindshield Implant
 
-7. How many Nanotrasen logos do you see in your dreams per week?  
-   [color=#002AAF]_____[/color]
-
+7. How many Nanotrasen logos do you see in your dreams per week? [color=#002AAF]Answer[/color]
+                   ‾‾‾‾‾‾‾‾‾
 8. How do you respond to the sound of the word “Unionize”?  
-   [color=#002AAF]___________________________________________________[/color]
-
+   [color=#002AAF]Sample Answer[/color]
+   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 9. Would you like to report any of your coworkers for disloyal behavior preemptively? (If yes, attach names and speculative offenses.)  
-   [color=#002AAF]___________________________________________________[/color]
-
-10. What is your opinion on the mandatory loyalty dance performed during code blue shifts?  
-   [color=#002AAF]___________________________________________________[/color]
-
+   [color=#002AAF]Sample Answer[/color]
+   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+10. What is your opinion on the mandatory random searches performed during code blue? 
+   [color=#002AAF]Sample Answer[/color]
+   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [head=3]Section III: Conclusion[/head]
 
 Do you solemnly affirm your undying allegiance to Nanotrasen, the Board of Directors, and its subsidiaries?  
 If so, sign below. Refusal to sign constitutes a waiver of your rights to coffee privileges and breathable air.
 
-Signature: [color=#002AAF]______________________________[/color]  
-Date: [color=#002AAF]______________[/color]
-
 This document must be reviewed and stamped by Internal Affairs, or it will be discarded and replaced with a Loyalty Re-Assessment Packet (IN-LOY-SUB-01).
 
+         [italic]SIGN AND STAMP BELOW     SIGN AND STAMP BELOW[/italic]
+──────────────────────────────────────────
