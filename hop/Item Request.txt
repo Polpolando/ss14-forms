@@ -2,6 +2,8 @@
 [color=#1b67a5]█▄ █ ▀█▀    [head=3]Item Request Form[/head]  
 █ ▀█     █[/color]                                                               [color=#aaa]Document RQ-ITM[/color]  
 ──────────────────────────────────────────
+Fill out the following form to request items from the department. Ensure all fields are completed accurately to avoid processing delays.
+
 Recipient Name:    [color=#002AAF]Sample Name[/color]  
                                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾  
 Item(s) Requested:[color=#002AAF]
