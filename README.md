@@ -26,6 +26,7 @@ Each document has an ID consisting of a two letter prefix and a three letter suf
 | IN    | Inspection       | Lists of things to inspect in a department. | 
 | MS    | Miscellaneous    | Miscellaneous forms that don't fit other categories. | 
 | LT    | Letter           | Formal letters for various purposes. | 
+
 More prefixes can be added as needed, but contributions should use existing ones where possible.
 ### Document Suffix Codes
 They are unique identifiers for each form, usually three letters long. They can be anything, but should be descriptive of the form's content. For example, "ACS" for access, "DEP" for department, etc.
